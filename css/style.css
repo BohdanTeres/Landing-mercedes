@@ -332,9 +332,6 @@ ul{
     flex-wrap: wrap;
     justify-content: center;
    }
-   .logo__img, .footer__link{
-    margin-left: 50px;
-   }
    .footer .list{
     width: 100%;
     margin-top: 25px;
